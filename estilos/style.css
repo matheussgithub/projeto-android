@@ -129,7 +129,11 @@ main h2{
 }
 
 main img.pequena{
-    max-width: 330px;
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+mai .pq{
     display: block;
     margin: auto;
 }
